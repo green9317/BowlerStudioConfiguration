@@ -3,10 +3,18 @@
     "https://gist.github.com/f68a68d539234035e328a94a54faff63.git": [
       "https://gist.github.com/f68a68d539234035e328a94a54faff63.git",
       "1659861521643"
+    ],
+    "https://github.com/green9317/test.git": [
+      "green9317/test",
+      "1659861735056"
     ]
   },
   "studio-open-web": {},
   "studio-open-git": {
+    "https://github.com/green9317/test.git:test.groovy": [
+      "https://github.com/green9317/test.git",
+      "test.groovy"
+    ],
     "https://gist.github.com/f68a68d539234035e328a94a54faff63.git:SimulatePhysics.groovy": [
       "https://gist.github.com/f68a68d539234035e328a94a54faff63.git",
       "SimulatePhysics.groovy"
