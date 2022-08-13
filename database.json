@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://github.com/green9317/recycling_bin_joint.git": [
+      "green9317/recycling_bin_joint",
+      "1660433564840"
+    ],
     "https://gist.github.com/f68a68d539234035e328a94a54faff63.git": [
       "https://gist.github.com/f68a68d539234035e328a94a54faff63.git",
       "1659861521643"
