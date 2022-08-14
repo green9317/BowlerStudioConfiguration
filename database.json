@@ -4,6 +4,10 @@
       "green9317/recycling_bin_joint",
       "1660433564840"
     ],
+    "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git": [
+      "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git",
+      "1660436236023"
+    ],
     "https://gist.github.com/f68a68d539234035e328a94a54faff63.git": [
       "https://gist.github.com/f68a68d539234035e328a94a54faff63.git",
       "1659861521643"
@@ -14,7 +18,16 @@
     ]
   },
   "studio-open-web": {},
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/green9317/recycling_bin_joint.git:recycling_bin_pin.groovy": [
+      "https://github.com/green9317/recycling_bin_joint.git",
+      "recycling_bin_pin.groovy"
+    ],
+    "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git:capScrew.groovy": [
+      "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git",
+      "capScrew.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "tutorialBranch": "deploy",
